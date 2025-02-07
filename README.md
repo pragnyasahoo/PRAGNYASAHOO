@@ -15,9 +15,8 @@
 ## 🌐 Socials:
 - [LinkedIn](https://in.linkedin.com/in/pragnya-sahoo-603951174)
 - [GitHub](https://github.com/pragnyasahoo)
-- [Twitter](https://twitter.com/yourusername) (Replace with your real Twitter link)
-- [Instagram](https://www.instagram.com/yourusername) (Replace with your real Instagram link)
-
+- [Twitter](https://twitter.com/yourusername) 
+- [Instagram](https://www.instagram.com/yourusername)
 ## 💻 Tech Stack:
 - **Languages**: C#, Java, Python, JavaScript
 - **Frameworks**: .NET, Spring Boot, React
@@ -36,7 +35,7 @@
 > "The best way to predict the future is to invent it." — Alan Kay
 
 ## 💰 You can help me by Donating:
-[Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) (Replace with your real donation link)
+[Buy Me a Coffee](https://www.buymeacoffee.com/yourusername) 
 
 ## 📂 Pinned Repositories:
 ### 1. [**Student Management System**](https://github.com/pragnyasahoo/student-management-system)
