@@ -13,10 +13,10 @@
 - **Others**: Agile methodologies, REST APIs, Microservices, OpenAI, Machine Learning
 
 ## 🌐 Socials:
-- [LinkedIn](https://in.linkedin.com/in/pragnya-sahoo-603951174)
-- [GitHub](https://github.com/pragnyasahoo)
-- [Twitter](https://twitter.com/yourusername) 
-- [Instagram](https://www.instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/pragnya-sahoo-603951174)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  *(Replace with your actual Twitter link)*
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername) *(Replace with your actual Instagram link)*
+
 ## 💻 Tech Stack:
 - **Languages**: C#, Java, Python, JavaScript
 - **Frameworks**: .NET, Spring Boot, React
